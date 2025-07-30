@@ -1,0 +1,2 @@
+$execute unless data storage xhl line_$(uuid0)$(uuid1)$(uuid2)$(uuid3).psw run data modify storage xhl line_$(uuid0)$(uuid1)$(uuid2)$(uuid3).psw set value ''
+$function xhl:dialog/log_in with storage xhl line_$(uuid0)$(uuid1)$(uuid2)$(uuid3)

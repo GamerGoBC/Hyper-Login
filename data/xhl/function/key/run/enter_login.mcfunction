@@ -1,0 +1,1 @@
+$function xhl:core/verify_password with storage xhl line_$(uuid0)$(uuid1)$(uuid2)$(uuid3)

@@ -1,0 +1,2 @@
+tag @s add xhl_suspended
+dialog show @s {type:notice,title:{text:'     Account under suspicion',bold:true},body:{type:plain_message,contents:{text:'There have been more than 5 login attempts on this account. \n\nPlease wait for the server to restart to try again or ask an administrator for help.'}},can_close_with_escape:false,pause:false,after_action:none,action:{label:'',width:1}}
